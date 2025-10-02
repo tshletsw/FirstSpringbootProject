@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JavaCrudApiMysqlApplication<java-crud-api-mysql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.java_crud_api_mysql.JavaCrudApiMysqlApplication",
+            "projectName": "java-crud-api-mysql",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
